@@ -19,7 +19,7 @@ To get started with the project, you'll need to have Node.js and npm installed o
 1. **Clone the repository:**
 
    \\\ash
-   git clone https://github.com/yourusername//redesigned-memory.git
+   git clone https://github.com/Passopla//redesigned-memory.git
    cd redesigned-memory
    \\\
 
