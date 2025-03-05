@@ -20,10 +20,11 @@ To get started with the project, you'll need to have Node.js and npm installed o
 
    \\\ash
    git clone https://github.com/Passopla//redesigned-memory.git
+   
    cd redesigned-memory
    \\\
 
-2. **Install dependencies:**
+3. **Install dependencies:**
 
    Run the following command to install all necessary dependencies:
 
@@ -31,7 +32,7 @@ To get started with the project, you'll need to have Node.js and npm installed o
    npm install
    \\\
 
-3. **Run the development server:**
+4. **Run the development server:**
 
    Start the development server with:
 
